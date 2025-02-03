@@ -8,7 +8,7 @@ I've been learning to code for 5 years after really pursuing this career path. A
 
 * 🌍  I'm based in Dominican Republic
 * ✉️  You can contact me at [luis.gerardo.dev@gmail.com](mailto:luis.gerardo.dev@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python Machine Learning
 
 ### Skills
 
